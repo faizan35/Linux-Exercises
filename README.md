@@ -6,7 +6,7 @@ _Welcome to the Linux Exercises Repository! This repository contains a series of
 
 ## Table of Contents
 
-1. [Automated Backup Script](Exercises\1-Automated-Backup-Script\README.md)
+1. [Automated Backup Script](Exercises/1-Automated-Backup-Script/README.md)
 
    - Create a script to automate the backup of important files and directories.
 
@@ -44,44 +44,44 @@ _Welcome to the Linux Exercises Repository! This repository contains a series of
 
 10. [Automated System Updates](#automated-system-updates)
 
-- Write a script that automatically checks for and installs system updates.
+    - Write a script that automatically checks for and installs system updates.
 
 11. [Security Hardening Checklist](#security-hardening-checklist)
 
-- Create a checklist or script that helps in securing a Linux system following best practices.
+    - Create a checklist or script that helps in securing a Linux system following best practices.
 
 12. [Database Setup and Configuration](#database-setup-and-configuration)
 
-- Install and configure a database server (e.g., MySQL or PostgreSQL) and create a sample database.
+    - Install and configure a database server (e.g., MySQL or PostgreSQL) and create a sample database.
 
 13. [File Encryption/Decryption Tool](#file-encryptiondecryption-tool)
 
-- Develop a script or tool to encrypt and decrypt files using strong encryption algorithms.
+    - Develop a script or tool to encrypt and decrypt files using strong encryption algorithms.
 
 14. [Remote Server Management Script](#remote-server-management-script)
 
-- Build a script that allows you to remotely manage and execute commands on multiple servers.
+    - Build a script that allows you to remotely manage and execute commands on multiple servers.
 
 15. [Automated Deployment Script](#automated-deployment-script)
 
-- Create a script for automating the deployment of a sample application on a Linux server.
+    - Create a script for automating the deployment of a sample application on a Linux server.
 
 16. [Custom System Information Tool](#custom-system-information-tool)
 
-- Build a tool that gathers and displays various system information in a user-friendly format.
+    - Build a tool that gathers and displays various system information in a user-friendly format.
 
 17. [Email Notification System](#email-notification-system)
 
-- Develop a script that sends email notifications for specific events or system conditions.
+    - Develop a script that sends email notifications for specific events or system conditions.
 
 18. [DNS Server Configuration](#dns-server-configuration)
 
-- Configure a DNS server (e.g., BIND) and set up a basic domain.
+    - Configure a DNS server (e.g., BIND) and set up a basic domain.
 
 19. [Containerization with Docker](#containerization-with-docker)
 
-- Learn and practice containerization by creating Docker containers for various applications.
+    - Learn and practice containerization by creating Docker containers for various applications.
 
 20. [Continuous Integration Pipeline](#continuous-integration-pipeline)
 
-- Set up a basic CI/CD pipeline using tools like Jenkins or GitLab CI.
+    - Set up a basic CI/CD pipeline using tools like Jenkins or GitLab CI.
