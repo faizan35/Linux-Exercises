@@ -46,7 +46,7 @@ touch {A..E}-project/project-info.txt  # Create's txt file inside A-project/ to 
 
 **Note :-** **backups**, **scripts** & **project-dir** directories are on the same level.
 
-# Challenge's
+## Challenge's
 
 1. _Create a backup every 6 hours._ **=>** On `A-project/` dir
 2. _Schedule a backup every day at 12:00AM._ **=>** On `B-project/` dir
@@ -55,7 +55,7 @@ touch {A..E}-project/project-info.txt  # Create's txt file inside A-project/ to 
 5. _Schedule a backup every month on 27th date at 7:30PM._ **=>** On `E-project/` dir
 6. Create a log file for cron job taking backup in challeng-3. **=>** On `C-project/` dir
 
-# Hints
+## Hints
 
 To get started, consider the following commands and concepts:
 
@@ -67,9 +67,9 @@ To get started, consider the following commands and concepts:
 
 Feel free to explore additional Linux commands and options to enhance your script.
 
-# Solution
+## Solution & Theory
 
-The solution for this exercise can be found in the [solution.md](./solution.md) file. Before checking the solution, try to implement the script on your own.
+The solution for this exercise can be found in the [Solution](./solution.md) file and detailed theory about the commands [Theory](./theory.md) file Before checking the solution, try to implement the script on your own.
 
 Happy coding!
 
